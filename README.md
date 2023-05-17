@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 
 ### :robot: NLU / NLP Tasks and Tools 	
 - Part-of-Speech Tagging(POS), Dependency Parsing, NER(Named Entity Tagging), Sentiment Analysis, Machine Translation, Question Answering, Text generation 
-- NLTK, spaCy, LLMs (Transformers, BERT, T5/flan T5, Bloom, LLaMA/Alpaca) fine-tuning and prompt engineering, Huggingface
+- NLTK, spaCy, LLMs (Transformers, BERT, T5/flan T5, GPT family, Whisper, LLaMA/Alpaca) fine-tuning and prompt engineering, Huggingface
 
 ## :books: What I am learning 	
 
