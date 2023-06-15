@@ -1,7 +1,7 @@
 ## 👋 Hi I’m Meiyu
 - 👀 My background is in linguistics, data analytics, machine learning and natural language processing.
 - 🌱 I’m a student of Master of Data Science at UBC, with a focus on Natural Language Processing. 
-- 📫 How to reach me meiyurj21@gmail.com
+- 📫 Feel free to reach me out: meiyurj21@gmail.com
 
 ## More about me...
 - 5+ years of industry experience in product analysis, product sourcing and purchasing workflow optimization and localization in the wholesale & retail businesses
@@ -48,6 +48,7 @@ You can click the Preview link to take a look at your changes.
 ## :books: What I am learning 	
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+and French!
 
 
 
