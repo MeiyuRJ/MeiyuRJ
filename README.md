@@ -48,7 +48,6 @@ You can click the Preview link to take a look at your changes.
 ## :books: What I am learning 	
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-and French!
 
 
 
